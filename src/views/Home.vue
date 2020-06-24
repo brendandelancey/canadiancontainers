@@ -4,7 +4,7 @@
       <template v-slot:header>Canadian Containers</template>
 
       <template v-slot:lead>
-        The Very Best In Fast Couteous Service
+        The Very Best In Fast Courteous Service
       </template>
 
       <hr class="my-4" />
