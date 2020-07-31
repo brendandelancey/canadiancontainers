@@ -9,7 +9,7 @@
     </div>
     <b-container fluid="sm" class="Grid for Content">
       <b-container class="Dumster Size">
-        <b-row>
+        <b-row class="justify-content-md-center">
           <!-- <b-col> -->
           <div id="10 Cubic Yard Container">
             <b-card
