@@ -24,7 +24,7 @@
     <div>
       <b-container fluid="sm" class="Grid for Content">
         <b-container class="Dumster Size">
-          <b-row>
+          <b-row class="justify-content-md-center">
             <!-- <b-col> -->
             <div id="10 Cubic Yard Container">
               <b-card
@@ -73,6 +73,8 @@
           </b-row>
         </b-container>
       </b-container>
+    </div>
+    <div>
       <b-jumbotron
         header-level="4"
         bg-variant="light"
