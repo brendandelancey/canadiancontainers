@@ -10,87 +10,87 @@
     <b-container fluid="sm" class="Grid for Content">
       <b-container class="Dumster Size">
         <b-row>
-          <b-col>
-            <div id="10 Cubic Yard Container">
-              <b-card
-                :img-src="require('../assets/acanadiancontainers.jpg')"
-                title="10 Cubic Yard"
-                img-alt="Container 10 Yard"
-                img-top
-                tag="article"
-                style="max-width: 20rem;"
-                class="mb-2"
-              >
-                <b-card-text>
-                  <h5>
-                    Single Room
-                  </h5>
-                  <h5>
-                    Roofing (up to 120 bundles)
-                  </h5>
-                  <h5>
-                    Up to 5 cubic yards
-                  </h5>
-                </b-card-text>
+          <!-- <b-col> -->
+          <div id="10 Cubic Yard Container">
+            <b-card
+              :img-src="require('../assets/acanadiancontainers.jpg')"
+              title="10 Cubic Yard"
+              img-alt="Container 10 Yard"
+              img-top
+              tag="article"
+              style="max-width: 20rem;"
+              class="mb-2"
+            >
+              <b-card-text>
+                <h5>
+                  Single Room
+                </h5>
+                <h5>
+                  Roofing (up to 120 bundles)
+                </h5>
+                <h5>
+                  Up to 5 cubic yards
+                </h5>
+              </b-card-text>
 
-                <!-- <b-button href="#" variant="primary">Go somewhere</b-button> -->
-              </b-card>
-            </div>
-          </b-col>
-          <b-col>
-            <div id="15 Cubic Yard Container">
-              <b-card
-                :img-src="require('../assets/acanadiancontainers.jpg')"
-                title="15 Cubic Yard"
-                img-alt="Image"
-                img-top
-                tag="article"
-                style="max-width: 20rem;"
-                class="mb-2"
-              >
-                <b-card-text>
-                  <h5>
-                    Two Rooms
-                  </h5>
-                  <h5>
-                    Garage Clean up
-                  </h5>
-                  <h5>
-                    Large Roof Landscaping
-                  </h5>
-                </b-card-text>
+              <!-- <b-button href="#" variant="primary">Go somewhere</b-button> -->
+            </b-card>
+          </div>
+          <!-- </b-col> -->
+          <!-- <b-col> -->
+          <div id="15 Cubic Yard Container">
+            <b-card
+              :img-src="require('../assets/acanadiancontainers.jpg')"
+              title="15 Cubic Yard"
+              img-alt="Image"
+              img-top
+              tag="article"
+              style="max-width: 20rem;"
+              class="mb-2"
+            >
+              <b-card-text>
+                <h5>
+                  Two Rooms
+                </h5>
+                <h5>
+                  Garage Clean up
+                </h5>
+                <h5>
+                  Large Roof Landscaping
+                </h5>
+              </b-card-text>
 
-                <!-- <b-button href="#" variant="primary">Go somewhere</b-button> -->
-              </b-card>
-            </div>
-          </b-col>
-          <b-col>
-            <div id="20 Cubic Yard Container">
-              <b-card
-                :img-src="require('../assets/acanadiancontainers.jpg')"
-                title="20 Cubic Yard"
-                img-alt="Container 20 Yard"
-                img-top
-                tag="article"
-                style="max-width: 20rem;"
-                class="mb-2"
-              >
-                <b-card-text>
-                  <h5>
-                    House Remodel
-                  </h5>
-                  <h5>
-                    Construction
-                  </h5>
-                  <h5>
-                    Large Estate Clean Up
-                  </h5>
-                </b-card-text>
+              <!-- <b-button href="#" variant="primary">Go somewhere</b-button> -->
+            </b-card>
+          </div>
+          <!-- </b-col> -->
+          <!-- <b-col> -->
+          <div id="20 Cubic Yard Container">
+            <b-card
+              :img-src="require('../assets/acanadiancontainers.jpg')"
+              title="20 Cubic Yard"
+              img-alt="Container 20 Yard"
+              img-top
+              tag="article"
+              style="max-width: 20rem;"
+              class="mb-2"
+            >
+              <b-card-text>
+                <h5>
+                  House Remodel
+                </h5>
+                <h5>
+                  Construction
+                </h5>
+                <h5>
+                  Large Estate Clean Up
+                </h5>
+              </b-card-text>
 
-                <!-- <b-button href="#" variant="primary">Go somewhere</b-button> -->
-              </b-card>
-            </div>
-          </b-col>
+              <!-- <b-button href="#" variant="primary">Go somewhere</b-button> -->
+            </b-card>
+          </div>
+          <!-- </b-col> -->
         </b-row>
       </b-container>
     </b-container>
